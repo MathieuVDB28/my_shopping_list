@@ -1,5 +1,7 @@
 # Projet FullStack JS - My Shopping List 🛒
 
+L'application est accessible en ligne à l'adresse : <http://185.171.202.23:8100/>
+
 ## Fonctionnalités 📝
 
 * Système de connexion et d'inscription 🔒
@@ -47,7 +49,3 @@ Vous devriez avoir un retour du style :
 Shopping List app listening at http://localhost:3000
 Connected!
 ```
-
-## Autres
-
-L'application est accessible en ligne à l'adresse : <http://185.171.202.23:8100/>
