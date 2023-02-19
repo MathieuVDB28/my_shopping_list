@@ -1,7 +1,5 @@
 # Projet FullStack JS - My Shopping List 🛒
 
-L'application est accessible en ligne à l'adresse : <http://185.171.202.23:8100/>
-
 ## Fonctionnalités 📝
 
 * Système de connexion et d'inscription 🔒
